@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+saves/
+cache/
+
+*.pdf
+*.html
+
+*.ini
+*.bak
+
+/.sync
+*/.sync
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+*.psd
+*.json
+*.keystore
+*.txt
+.DS_Store
